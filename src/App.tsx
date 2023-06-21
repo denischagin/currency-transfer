@@ -1,5 +1,5 @@
 import { Container } from "@mui/material"
-import { CurrentExchangeRate } from "./components /CurrentExchangeRate/CurrentExchangeRate"
+import { CurrentExchangeRate } from "./components/CurrentExchangeRate/CurrentExchangeRate"
 
 const App = () => {
   return (
